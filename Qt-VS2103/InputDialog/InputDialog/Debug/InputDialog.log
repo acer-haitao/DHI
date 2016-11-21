@@ -1,0 +1,215 @@
+﻿生成启动时间为 2016/10/31 14:49:04。
+     1>项目“c:\Users\admin\documents\visual studio 2013\Projects\InputDialog\InputDialog\InputDialog.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Uic'ing inputdialog.ui...
+         Moc'ing inputdialog.h...
+         Rcc'ing inputdialog.qrc...
+     1>RCC : warning : No resources in 'c:\Users\admin\documents\visual studio 2013\Projects\InputDialog\InputDialog\inputdialog.qrc'.
+         
+       ClCompile:
+         D:\software-haitao\vs2010\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /I"D:\VS-qt\5.3\msvc2013_64_opengl\include" /I.\GeneratedFiles\Debug /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtCore" /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtGui" /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtWidgets" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_inputdialog.cpp inputdialog.cpp main.cpp
+         moc_inputdialog.cpp
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(7): error C2504: “QDialog”: 未定义基类
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(13): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(13): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(14): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(14): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(15): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(16): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(16): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(18): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(18): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(19): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(19): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(20): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(20): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(21): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(21): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(22): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(22): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(23): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(23): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(24): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(24): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(25): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\generatedfiles\debug\../../inputdialog.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>GeneratedFiles\Debug\moc_inputdialog.cpp(75): error C2440: “static_cast”: 无法从“QObject *”转换为“InputDlg *”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>GeneratedFiles\Debug\moc_inputdialog.cpp(88): error C2027: 使用了未定义类型“QDialog”
+                 D:\VS-qt\5.3\msvc2013_64_opengl\include\QtGui/qwindowdefs.h(57) : 参见“QDialog”的声明
+     1>GeneratedFiles\Debug\moc_inputdialog.cpp(95): error C2227: “->metaObject”的左边必须指向类/结构/联合/泛型类型
+     1>GeneratedFiles\Debug\moc_inputdialog.cpp(95): error C2227: “->dynamicMetaObject”的左边必须指向类/结构/联合/泛型类型
+     1>GeneratedFiles\Debug\moc_inputdialog.cpp(103): error C2027: 使用了未定义类型“QDialog”
+                 D:\VS-qt\5.3\msvc2013_64_opengl\include\QtGui/qwindowdefs.h(57) : 参见“QDialog”的声明
+     1>GeneratedFiles\Debug\moc_inputdialog.cpp(108): error C2027: 使用了未定义类型“QDialog”
+                 D:\VS-qt\5.3\msvc2013_64_opengl\include\QtGui/qwindowdefs.h(57) : 参见“QDialog”的声明
+     1>GeneratedFiles\Debug\moc_inputdialog.cpp(113): error C2664: “void InputDlg::qt_static_metacall(QObject *,QMetaObject::Call,int,void **)”: 无法将参数 1 从“InputDlg *const ”转换为“QObject *”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+         inputdialog.cpp
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(7): error C2504: “QDialog”: 未定义基类
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(13): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(13): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(14): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(14): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(15): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(16): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(16): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(18): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(18): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(19): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(19): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(20): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(20): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(21): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(21): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(22): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(22): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(23): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(23): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(24): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(24): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(25): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>inputdialog.cpp(6): error C3861: “setWindowTitle”:  找不到标识符
+     1>inputdialog.cpp(8): error C2065: “label1”: 未声明的标识符
+     1>inputdialog.cpp(8): error C2061: 语法错误: 标识符“QLabel”
+     1>inputdialog.cpp(9): error C2065: “label2”: 未声明的标识符
+     1>inputdialog.cpp(9): error C2061: 语法错误: 标识符“QLabel”
+     1>inputdialog.cpp(10): error C2065: “label3”: 未声明的标识符
+     1>inputdialog.cpp(10): error C2061: 语法错误: 标识符“QLabel”
+     1>inputdialog.cpp(11): error C2065: “label4”: 未声明的标识符
+     1>inputdialog.cpp(11): error C2061: 语法错误: 标识符“QLabel”
+     1>inputdialog.cpp(13): error C2065: “nameLabel”: 未声明的标识符
+     1>inputdialog.cpp(13): error C2061: 语法错误: 标识符“QLabel”
+     1>inputdialog.cpp(14): error C2065: “nameLabel”: 未声明的标识符
+     1>inputdialog.cpp(14): error C2227: “->setFrameStyle”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(14): error C2653: “QFrame”: 不是类或命名空间名称
+     1>inputdialog.cpp(14): error C2065: “Panel”: 未声明的标识符
+     1>inputdialog.cpp(14): error C2065: “Sunken”: 未声明的标识符
+     1>inputdialog.cpp(15): error C2065: “sexLabel”: 未声明的标识符
+     1>inputdialog.cpp(15): error C2061: 语法错误: 标识符“QLabel”
+     1>inputdialog.cpp(16): error C2065: “sexLabel”: 未声明的标识符
+     1>inputdialog.cpp(16): error C2227: “->setFrameStyle”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(16): error C2653: “QFrame”: 不是类或命名空间名称
+     1>inputdialog.cpp(16): error C2065: “Panel”: 未声明的标识符
+     1>inputdialog.cpp(16): error C2065: “Sunken”: 未声明的标识符
+     1>inputdialog.cpp(17): error C2065: “ageLabel”: 未声明的标识符
+     1>inputdialog.cpp(17): error C2061: 语法错误: 标识符“QLabel”
+     1>inputdialog.cpp(18): error C2065: “ageLabel”: 未声明的标识符
+     1>inputdialog.cpp(18): error C2227: “->setFrameStyle”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(18): error C2653: “QFrame”: 不是类或命名空间名称
+     1>inputdialog.cpp(18): error C2065: “Panel”: 未声明的标识符
+     1>inputdialog.cpp(18): error C2065: “Sunken”: 未声明的标识符
+     1>inputdialog.cpp(19): error C2065: “statureLabel”: 未声明的标识符
+     1>inputdialog.cpp(19): error C2061: 语法错误: 标识符“QLabel”
+     1>inputdialog.cpp(20): error C2065: “statureLabel”: 未声明的标识符
+     1>inputdialog.cpp(20): error C2227: “->setFrameStyle”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(20): error C2653: “QFrame”: 不是类或命名空间名称
+     1>inputdialog.cpp(20): error C2065: “Panel”: 未声明的标识符
+     1>inputdialog.cpp(20): error C2065: “Sunken”: 未声明的标识符
+     1>inputdialog.cpp(22): error C2065: “nameButton”: 未声明的标识符
+     1>inputdialog.cpp(22): error C2061: 语法错误: 标识符“QPushButton”
+     1>inputdialog.cpp(23): error C2065: “nameButton”: 未声明的标识符
+     1>inputdialog.cpp(23): error C2227: “->setIcon”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(24): error C2065: “sexButton”: 未声明的标识符
+     1>inputdialog.cpp(24): error C2061: 语法错误: 标识符“QPushButton”
+     1>inputdialog.cpp(25): error C2065: “sexButton”: 未声明的标识符
+     1>inputdialog.cpp(25): error C2227: “->setIcon”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(26): error C2065: “ageButton”: 未声明的标识符
+     1>inputdialog.cpp(26): error C2061: 语法错误: 标识符“QPushButton”
+     1>inputdialog.cpp(27): error C2065: “ageButton”: 未声明的标识符
+     1>inputdialog.cpp(27): error C2227: “->setIcon”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(28): error C2065: “statureButton”: 未声明的标识符
+     1>inputdialog.cpp(28): error C2061: 语法错误: 标识符“QPushButton”
+     1>inputdialog.cpp(29): error C2065: “statureButton”: 未声明的标识符
+     1>inputdialog.cpp(29): error C2227: “->setIcon”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(32): error C2065: “QGridLayout”: 未声明的标识符
+     1>inputdialog.cpp(32): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(32): error C2061: 语法错误: 标识符“QGridLayout”
+     1>inputdialog.cpp(37): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(37): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(37): error C2065: “label1”: 未声明的标识符
+     1>inputdialog.cpp(38): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(38): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(38): error C2065: “nameLabel”: 未声明的标识符
+     1>inputdialog.cpp(39): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(39): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(39): error C2065: “nameButton”: 未声明的标识符
+     1>inputdialog.cpp(40): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(40): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(40): error C2065: “label2”: 未声明的标识符
+     1>inputdialog.cpp(41): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(41): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(41): error C2065: “sexLabel”: 未声明的标识符
+     1>inputdialog.cpp(42): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(42): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(42): error C2065: “sexButton”: 未声明的标识符
+     1>inputdialog.cpp(43): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(43): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(43): error C2065: “label3”: 未声明的标识符
+     1>inputdialog.cpp(44): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(44): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(44): error C2065: “ageLabel”: 未声明的标识符
+     1>inputdialog.cpp(45): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(45): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(45): error C2065: “ageButton”: 未声明的标识符
+     1>inputdialog.cpp(46): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(46): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>inputdialog.cpp(46): error C2065: “label4”: 未声明的标识符
+     1>inputdialog.cpp(47): error C2065: “layout”: 未声明的标识符
+     1>inputdialog.cpp(47): error C2227: “->addWidget”的左边必须指向类/结构/联合/泛型类型
+     1>inputdialog.cpp(47): fatal error C1003: 错误计数超过 100；正在停止编译
+         main.cpp
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(7): error C2504: “QDialog”: 未定义基类
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(13): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(13): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(14): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(14): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(15): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(16): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(16): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(18): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(18): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(19): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(19): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(20): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(20): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(21): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(21): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(22): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(22): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(23): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(23): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(24): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(24): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(25): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>main.cpp(14): error C2039: “show”: 不是“InputDlg”的成员
+                 c:\users\admin\documents\visual studio 2013\projects\inputdialog\inputdialog\inputdialog.h(6) : 参见“InputDlg”的声明
+         正在生成代码...
+     1>已完成生成项目“c:\Users\admin\documents\visual studio 2013\Projects\InputDialog\InputDialog\InputDialog.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.83

@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/10/27 8:27:56。
+     1>项目“C:\Users\admin\Desktop\蝶和科技\中药房-处方文件配置\配置处方\配置处方.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software-haitao\vs2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\software-haitao\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Desktop\蝶和科技\中药房-处方文件配置\Release\配置处方.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Desktop\蝶和科技\中药房-处方文件配置\Release\配置处方.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Desktop\蝶和科技\中药房-处方文件配置\Release\配置处方.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         配置处方.vcxproj -> C:\Users\admin\Desktop\蝶和科技\中药房-处方文件配置\Release\配置处方.exe
+     1>已完成生成项目“C:\Users\admin\Desktop\蝶和科技\中药房-处方文件配置\配置处方\配置处方.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.69

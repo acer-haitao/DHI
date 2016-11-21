@@ -1,0 +1,20 @@
+﻿生成启动时间为 2016/10/29 10:02:04。
+     1>项目“C:\Users\admin\Documents\Visual Studio 2013\Projects\Qt-hello\Qt-hello\Qt-hello.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software-haitao\vs2010\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"D:\VS-qt\5.3\msvc2013_64_opengl\include" /I.\GeneratedFiles\Debug /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtCore" /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtGui" /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtWidgets" /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_myclass.cpp myclass.cpp
+         moc_myclass.cpp
+         myclass.cpp
+         正在生成代码...
+         D:\software-haitao\vs2010\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"D:\VS-qt\5.3\msvc2013_64_opengl\include" /I.\GeneratedFiles\Debug /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtCore" /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtGui" /I"D:\VS-qt\5.3\msvc2013_64_opengl\include\QtWidgets" /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_myclass.cpp
+         qrc_myclass.cpp
+       Link:
+         D:\software-haitao\vs2010\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Qt-hello\Qt-hello\x64\Debug\\Qt-hello.exe" /NOLOGO /LIBPATH:"D:\VS-qt\5.3\msvc2013_64_opengl\lib" qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Qt-hello\Qt-hello\x64\Debug\Qt-hello.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Qt-hello\Qt-hello\x64\Debug\Qt-hello.lib" /MACHINE:X64 x64\Debug\moc_myclass.obj
+         x64\Debug\qrc_myclass.obj
+         x64\Debug\main.obj
+         x64\Debug\myclass.obj
+         Qt-hello.vcxproj -> C:\Users\admin\Documents\Visual Studio 2013\Projects\Qt-hello\Qt-hello\x64\Debug\Qt-hello.exe
+     1>已完成生成项目“C:\Users\admin\Documents\Visual Studio 2013\Projects\Qt-hello\Qt-hello\Qt-hello.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.69

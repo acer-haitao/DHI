@@ -1,0 +1,4 @@
+主题： 主控板烧写
+调线调到M0，烧写LPC11C24，使用工程LPC11C24.jflash，加装iValuableISP.hex烧写。
+
+调线调到M4，烧写STM32F427，使用工程STM32F427ZI.jflash，加装iPosionController.hex烧写。
