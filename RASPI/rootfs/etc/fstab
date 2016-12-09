@@ -1,0 +1,5 @@
+#device		mount-point		type	options
+proc		/proc 			proc 	defaults
+tmpfs 		/tmp 			tmpfs 	defaults
+sysfs		/sys 			sysfs 	defaults
+tmpfs 		/dev 			tmpfs   defaults

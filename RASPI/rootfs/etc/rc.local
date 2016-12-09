@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+
+insmod /modules/led.ko
+mknod /dev/led c 255 0
+insmod /modules/temp/mt7601Usta.ko
+sleep 4
+rmmod mt7601Usta
+sleep 2
+insmod /modules/mt7601Usta.ko
+sleep 5
+ifconfig wlan0 up
+sleep 3

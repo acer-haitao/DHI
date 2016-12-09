@@ -1,0 +1,12 @@
+#!/bin/sh
+
+/bin/mount  -a
+echo  /sbin/mdev  >  /proc/sys/kernel/hotplug
+/sbin/mdev   -s
+/etc/rc.local
+sleep 3
+/etc/wifi_config.sh
+sleep 2
+/etc/boa/boa
+sleep 2
+/farm_manage
